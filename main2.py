@@ -16,4 +16,4 @@ for i in range(5):
   else:
      l+=1
 if(k==21 and l==5):
-  print("Invalid")
+  print("invalid")
