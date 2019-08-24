@@ -3,7 +3,7 @@ nu1=int(nu1)
 nu2=int(nu2)
 nu1=nu1+1
 st=[]
-for i in range(nu1,nu2-1):
+for i in range(nu1,nu2):
   power=len(str(i))
   temp=i
   sum=0
