@@ -10,5 +10,4 @@ for num in range(lower,upper-1):
                break
        else:
            st.append(str(num))
-
 print(" ".join(st))
